@@ -3,7 +3,7 @@ package services
 import (
 	"context"
 
-	"github.com/yourusername/ecommerce-vector-gateway/models"
+	"github.com/snowgh0st/ecommerce-vector-gateway/models"
 )
 
 type SupabaseService struct {

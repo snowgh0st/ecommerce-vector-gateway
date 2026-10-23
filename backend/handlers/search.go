@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/yourusername/ecommerce-vector-gateway/models"
-	"github.com/yourusername/ecommerce-vector-gateway/services"
+	"github.com/snowgh0st/ecommerce-vector-gateway/models"
+	"github.com/snowgh0st/ecommerce-vector-gateway/services"
 )
 
 // SearchHandler processes low-latency semantic and visual search requests.
